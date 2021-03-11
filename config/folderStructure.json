@@ -1,0 +1,13 @@
+{
+    "pages": [
+        "index", "product", "productlist", "checkout"
+    ],
+    "stylesheets": [],
+    "javascripts": [],
+    "fonts": [],
+    "images": [],
+    "emails": [
+
+    ],
+    "bills": []
+}

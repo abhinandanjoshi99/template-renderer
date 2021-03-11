@@ -1,0 +1,5 @@
+{
+    "generated_folder": "generated",
+    "pages_folder": "pages",
+    "file_list_endpoint": "https://s3-ap-southeast-1.amazonaws.com/bookfetch.in/template-renderer/file-list.json"
+}

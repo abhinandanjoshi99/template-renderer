@@ -1,0 +1,7 @@
+{
+    "src": "/home/username/templates/my-template-folder",
+    "data": "/home/username/data-folder",
+    "template-language": "ejs",
+    "port": 8000,
+    "languages": ["en"]
+}

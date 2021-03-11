@@ -1,4 +1,4 @@
-# Omnibus Template Renderer
+# Template Renderer
 
 The Template Renderer helps web-designers iteratively test their Omnibus templates to ensure that their pages look good for different combinations of data.
 
